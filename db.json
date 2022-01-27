@@ -1,25 +1,32 @@
 {
-  "clientes": [
-    {
-      "nombre": "Leonardo Torres",
-      "email": "leo@gmail.com",
-      "telefono": "98213213",
-      "empresa": "Comideria",
-      "id": 1
-    },
-    {
-      "nombre": "Kathryn Belén Gaitán",
-      "email": "kathryn@hotmail.com",
-      "telefono": "91284312213",
-      "empresa": "Ropa",
-      "id": 2
-    },
-    {
-      "nombre": "Cooper",
-      "email": "cooper@gmail.com",
-      "telefono": "902183213421",
-      "empresa": "Veterinaria",
-      "id": 3
-    }
-  ]
+	"clientes": [
+		{
+			"nombre": "Leonardo Torres",
+			"email": "leo@gmail.com",
+			"telefono": "99873254341",
+			"empresa": "Informática",
+			"id": 1
+		},
+		{
+			"nombre": "Juan Pérez",
+			"email": "juan@juan.com",
+			"telefono": "91284312213",
+			"empresa": "Telecomunicaciones",
+			"id": 2
+		},
+		{
+			"nombre": "Cooper",
+			"email": "cooper@gmail.com",
+			"telefono": "902183213421",
+			"empresa": "Veterinaria",
+			"id": 3
+		},
+		{
+			"nombre": "Andrés ",
+			"email": "andres@gmail.com",
+			"telefono": "785326984321",
+			"empresa": "Autos",
+			"id": 4
+		}
+	]
 }
