@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Leonardo Torres",
+      "email": "leo@gmail.com",
+      "telefono": "98213213",
+      "empresa": "Comideria",
+      "id": 1
+    },
+    {
+      "nombre": "Kathryn Belén Gaitán",
+      "email": "kathryn@hotmail.com",
+      "telefono": "91284312213",
+      "empresa": "Ropa",
+      "id": 2
+    },
+    {
+      "nombre": "Cooper",
+      "email": "cooper@gmail.com",
+      "telefono": "902183213421",
+      "empresa": "Veterinaria",
+      "id": 3
+    }
+  ]
+}
